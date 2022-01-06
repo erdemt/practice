@@ -9,5 +9,6 @@ Any input by the HackerRank can be used in the files.
 - Array Manipulation
 - Tree: Huffman Decoding
 - Down to Zero II
+- Truck Tour
 
 
