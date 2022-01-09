@@ -1,5 +1,7 @@
 **Solutions for some of the HackerRank problems**
 
+**JAVA 8+**
+
 Input and output files are generated automatically once you run the main method the first time.
 Any input by the HackerRank can be used in the files.
 
@@ -10,5 +12,6 @@ Any input by the HackerRank can be used in the files.
 - Tree: Huffman Decoding
 - Down to Zero II
 - Truck Tour
+- Minimum Swaps 2
 
 

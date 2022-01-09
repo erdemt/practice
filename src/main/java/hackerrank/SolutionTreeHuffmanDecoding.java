@@ -6,12 +6,6 @@ import java.util.Optional;
 
 public class SolutionTreeHuffmanDecoding {
 
-}
-
-
-
-class ResultTreeHuffmanDecoding {
-
     void decode(String s, Node root) {
         char[] chArr = s.toCharArray();
         String result = "";
