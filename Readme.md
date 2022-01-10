@@ -2,7 +2,7 @@
 
 **JAVA 8+**
 
-Input and output files are generated automatically once you run the main method the first time.
+When you run the main method the first time, iInput and output files are generated automatically.
 Any input by the HackerRank can be used in the files.
 
 **Implemented Solutions:**
